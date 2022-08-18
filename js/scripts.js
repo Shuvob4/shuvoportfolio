@@ -79,7 +79,6 @@
 
     });
 
-    console.log("test")
 
     $('#ex-timeline').each(function() {
 
